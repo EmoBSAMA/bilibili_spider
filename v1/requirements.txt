@@ -1,0 +1,6 @@
+requests
+BeautifulSoup
+xlwt
+xlrd
+xlutils
+datetime
